@@ -1,0 +1,3 @@
+# The Selini RFQ Python samples use only the Python standard library
+# (urllib, hmac, hashlib, json). There is nothing to install; this file exists so
+# `pip install -r requirements.txt` is a harmless no-op in scripted setups.
